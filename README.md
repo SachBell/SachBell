@@ -14,6 +14,10 @@ Actualmente manejo y estoy aprendiendo a manejar estos lenguajes de programació
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,php,cs,python&theme=dark)](https://skillicons.dev)
 ## 🔗 Links
 Si eres principiante y quieres acompañarme en este estilo de vida, puedes encontrarme en mis redes:
+
+
 [![discord](https://img.shields.io/badge/discord-333?style=for-the-badge&logo=discord&logoColor=lila)](https://discord.com/channels/@me/556546588122808320)
+
+
 [![instagram](https://img.shields.io/badge/instagram-d5294d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
 
