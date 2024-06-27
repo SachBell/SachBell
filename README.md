@@ -1,16 +1,19 @@
-## Hi there 👋
+# print('Hello World! 👋')
+## 👀 ¿Quién Soy?
 
-<!--
-**SachBell/SachBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola!🤗 me llamo Zack, en este mundo me puedes conocer como SachBell.
 
-Here are some ideas to get you started:
+Soy un programador, no tanto experimentado, pero me gusta seguir aprendiendo. Me gusta la programación y resolver problemas lógicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me especializo en desarrollo web, tanto **Front-end** como **Back-end**, sepodria decr que soy un desarrollador full-stack. Pero la verdad es que me falta bastante. 👉👈
+
+## 🛠 Skills
+
+Actualmente manejo y estoy aprendiendo a manejar estos lenguajes de programación:
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,php,cs,python&theme=dark)](https://skillicons.dev)
+## 🔗 Links
+Si eres principiante y quieres acompañarme en este estilo de vida, puedes encontrarme en mis redes:
+[![discord](https://img.shields.io/badge/discord-333?style=for-the-badge&logo=discord&logoColor=lila)](https://discord.com/channels/@me/556546588122808320)
+[![instagram](https://img.shields.io/badge/instagram-d5294d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
+
