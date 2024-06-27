@@ -17,5 +17,5 @@ Si eres principiante y quieres acompañarme en este estilo de vida, puedes encon
 
 
 [![discord](https://img.shields.io/badge/discord-333?style=for-the-badge&logo=discord&logoColor=lila)](https://discord.com/channels/@me/556546588122808320)
-[![instagram](https://img.shields.io/badge/instagram-d5294d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
+[![instagram](https://img.shields.io/badge/instagram-d5294d?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/](https://www.instagram.com/sach_bell/))
 
