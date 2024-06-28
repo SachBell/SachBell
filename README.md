@@ -7,6 +7,8 @@ Soy un programador, no tanto experimentado, pero me gusta seguir aprendiendo. Me
 
 Me especializo en desarrollo web, tanto **Front-end** como **Back-end**, sepodria decr que soy un desarrollador full-stack. Pero la verdad es que me falta bastante. 👉👈
 
+A parte de mi especialidad, me interesa mas la creación de software en general. Estoy tratando de aprender más sobre la programación y sus misterios, perocreo que mientras tenga constancia estaré bien. 😱
+
 ## 🛠 Skills
 
 Actualmente manejo y estoy aprendiendo a manejar estos lenguajes de programación:
